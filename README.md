@@ -12,6 +12,9 @@ Click the link below to access the full VR project:
 
 > Note: Make sure you have enough space (project size is over 1 GB) and a stable internet connection before downloading.
 
+# To run the application
+Download the project, Project folder > Windows > .exe files
+
 ## 🛠️ Project Details
 
 - **Engine**: Unreal Engine 5  
