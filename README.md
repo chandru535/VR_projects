@@ -8,7 +8,7 @@ This repository serves as a reference point for my VR project developed using **
 
 Click the link below to access the full VR project:
 
-👉 [Download VR Project from Google Drive]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1ZN_5hrP77bIrhAKFiyr4U8fJsu5DVC1v?usp=sharing))
+👉 [Download VR Project from Google Drive](https://drive.google.com/drive/folders/1ZN_5hrP77bIrhAKFiyr4U8fJsu5DVC1v?usp=sharing)
 
 > Note: Make sure you have enough space (project size is over 1 GB) and a stable internet connection before downloading.
 
