@@ -10,7 +10,7 @@ Click the link below to access the full VR project:
 
 👉 [Download VR Project from Google Drive](https://drive.google.com/drive/folders/1ZN_5hrP77bIrhAKFiyr4U8fJsu5DVC1v?usp=sharing)
 
-> Note: Make sure you have enough space (project size is over 1 GB) and a stable internet connection before downloading.
+> Note: Make sure you have enough processing power to run these projects
 
 # To run the application
 Download the project, Project folder > Windows > .exe files
